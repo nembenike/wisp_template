@@ -1,7 +1,7 @@
-import wisp
-import mist
-import gleam/erlang/process
 import app/router
+import gleam/erlang/process
+import mist
+import wisp
 
 pub fn main() {
   // Logging
